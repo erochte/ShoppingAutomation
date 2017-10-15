@@ -32,6 +32,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Evan/Desktop/selenium-java-3.5.3/client-combined-3.5.3-nodeps.jar" sourcepath="C:/Users/Evan/Desktop/selenium-java-3.5.3/client-combined-3.5.3-nodeps.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

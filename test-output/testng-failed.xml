@@ -5,8 +5,8 @@
     <classes>
       <class name="shopping.Shopautomation">
         <methods>
-          <include name="signin"/>
-          <include name="start"/>
+          <include name="browser"/>
+          <include name="username"/>
         </methods>
       </class> <!-- shopping.Shopautomation -->
     </classes>

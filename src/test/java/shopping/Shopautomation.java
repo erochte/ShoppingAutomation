@@ -25,8 +25,7 @@ public WebDriver driver;
 	  System.setProperty("webdriver.gecko.driver","C:\\Users\\Evan\\Desktop\\geckodriver-v0.18.0-win64\\geckodriver.exe");
 	  driver = new FirefoxDriver();
 	  driver.get("http://automationpractice.com/");
-	 
- 
+	
   }
 
 @Test()
@@ -52,8 +51,8 @@ public void tshirt() {
 public void wishlist() {
 WebElement wishlist=driver.findElement(By.linkText("Add to wishlist"));
 wishlist.click();
-	}
-	
+}
+
 }
 
 

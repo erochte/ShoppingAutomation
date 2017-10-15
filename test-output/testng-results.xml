@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29046" started-at="2017-10-15T22:02:43Z" finished-at="2017-10-15T22:03:12Z">
+  <suite name="Default suite" duration-ms="21668" started-at="2017-10-15T23:04:53Z" finished-at="2017-10-15T23:05:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29046" started-at="2017-10-15T22:02:43Z" finished-at="2017-10-15T22:03:12Z">
+    <test name="Default test" duration-ms="21668" started-at="2017-10-15T23:04:53Z" finished-at="2017-10-15T23:05:15Z">
       <class name="shopping.Shopautomation">
-        <test-method status="PASS" signature="browser()[pri:0, instance:shopping.Shopautomation@475530b9]" name="browser" is-config="true" duration-ms="23198" started-at="2017-10-15T15:02:43Z" finished-at="2017-10-15T15:03:07Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:shopping.Shopautomation@26be92ad]" name="browser" is-config="true" duration-ms="17227" started-at="2017-10-15T16:04:53Z" finished-at="2017-10-15T16:05:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="search()[pri:0, instance:shopping.Shopautomation@475530b9]" name="search" duration-ms="313" started-at="2017-10-15T15:03:07Z" finished-at="2017-10-15T15:03:07Z">
+        <test-method status="PASS" signature="search()[pri:0, instance:shopping.Shopautomation@26be92ad]" name="search" duration-ms="278" started-at="2017-10-15T16:05:10Z" finished-at="2017-10-15T16:05:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method status="PASS" signature="submit1()[pri:0, instance:shopping.Shopautomation@475530b9]" name="submit1" duration-ms="3290" started-at="2017-10-15T15:03:07Z" finished-at="2017-10-15T15:03:10Z">
+        <test-method status="PASS" signature="submit1()[pri:0, instance:shopping.Shopautomation@26be92ad]" name="submit1" duration-ms="1884" started-at="2017-10-15T16:05:11Z" finished-at="2017-10-15T16:05:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submit1 -->
-        <test-method status="PASS" signature="tshirt()[pri:0, instance:shopping.Shopautomation@475530b9]" name="tshirt" duration-ms="1872" started-at="2017-10-15T15:03:10Z" finished-at="2017-10-15T15:03:12Z">
+        <test-method status="PASS" signature="tshirt()[pri:0, instance:shopping.Shopautomation@26be92ad]" name="tshirt" duration-ms="1919" started-at="2017-10-15T16:05:12Z" finished-at="2017-10-15T16:05:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tshirt -->
-        <test-method status="PASS" signature="wishlist()[pri:0, instance:shopping.Shopautomation@475530b9]" name="wishlist" duration-ms="342" started-at="2017-10-15T15:03:12Z" finished-at="2017-10-15T15:03:12Z">
+        <test-method status="PASS" signature="wishlist()[pri:0, instance:shopping.Shopautomation@26be92ad]" name="wishlist" duration-ms="329" started-at="2017-10-15T16:05:14Z" finished-at="2017-10-15T16:05:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wishlist -->
